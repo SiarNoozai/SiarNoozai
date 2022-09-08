@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SiarNoozai
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Java and Kotlin
-- 📫 you can reach me through : siyerduh@gmail.com 
+- 📫 you can reach me through : siyer@outlook.de
 
 <!---
 SiarNoozai/SiarNoozai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
