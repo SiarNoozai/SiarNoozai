@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiarNoozai
+- 👋 Hi, I’m @SiarNoorzai
 - 📫 you can reach me through : siyer@outlook.de
 
 <!---
